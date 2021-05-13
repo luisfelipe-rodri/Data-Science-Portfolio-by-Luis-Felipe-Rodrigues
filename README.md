@@ -1,4 +1,4 @@
-# Data Science Portifolio by Luis Felipe Rodrigues
+# Data Science Portfolio by Luis Felipe Rodrigues
 
 <!--ts-->
    * Supervised Learning
