@@ -1,8 +1,9 @@
 # Data Science Portfolio by Luis Felipe Rodrigues
 
 <!--ts-->
+   * Economics, finantials, and statistics
+     * GARCH model for forecast the volitivity of IBOV stocks
    * Supervised Learning
-      * GARCH model for forecast the volitivity of IBOV stocks
    * Unsupervised Learning
       * [Mapping Sales Hotspots and Outliers Detection](https://l-f-rodrigues.medium.com/mapping-sales-hotspots-and-outliers-detection-ad34d6e47a68)
 : The objective of the project is to identify sales hotspots based on density points. Thus, locate conglomerate cities on the map that represent a high volume of sales.
