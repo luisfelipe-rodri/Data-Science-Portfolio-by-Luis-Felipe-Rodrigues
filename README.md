@@ -1,7 +1,7 @@
 # Data Science Portfolio by Luis Felipe Rodrigues
 
 <!--ts-->
-   * Economics, finantials, and statistics
+   * Economics, Finantials, and Statistics
      * GARCH model for forecast the volitivity of IBOV stocks
    * Supervised Learning
    * Unsupervised Learning
