@@ -2,7 +2,7 @@
 
 <!--ts-->
    * Economics, Finantials, and Statistics
-     * GARCH model for forecast the volitivity of IBOV stocks
+     * GARCH-ARIMA for forecast the volitivity of IBOV stocks (Devoloping)
    * Supervised Learning
    * Unsupervised Learning
       * [Mapping Sales Hotspots and Outliers Detection](https://l-f-rodrigues.medium.com/mapping-sales-hotspots-and-outliers-detection-ad34d6e47a68)
