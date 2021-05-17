@@ -11,4 +11,5 @@
 [[Code](https://github.com/luisfelipe-rodri/Data-Science-Portifolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/E-commerce%20Brazil/E-commerce%20Sales%20Hotspots%20and%20Outliers%20Detection.ipynb)]
    * Deep Learning
    * Dashboards & Deploys
+     *  LinkedIn connections and interests
 <!--te-->
