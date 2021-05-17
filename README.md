@@ -2,7 +2,7 @@
 
 <!--ts-->
    * Economics, Finantials, and Statistics
-     * GARCH-ARIMA for forecast the volitivity of IBOV stocks (Devoloping)
+     * Forecasting the volatility of Ibovespa's time series using GARCH-ARIMA
    * Supervised Learning
    * Unsupervised Learning
       * [Mapping Sales Hotspots and Outliers Detection](https://l-f-rodrigues.medium.com/mapping-sales-hotspots-and-outliers-detection-ad34d6e47a68)
