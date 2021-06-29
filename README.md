@@ -9,6 +9,7 @@
 
    * Supervised Learning
      * Using XGBoost to predict house prices [[code](https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Supervised%20Learning/Using%20XGBoost%20to%20predict%20house%20prices.ipynb)]
+     * Classifying wine quality with automl library
 
    * Unsupervised Learning
       * [Mapping Sales Hotspots and Outliers Detection](https://l-f-rodrigues.medium.com/mapping-sales-hotspots-and-outliers-detection-ad34d6e47a68): The objective of the project is to identify sales hotspots based on density points. Thus, locate conglomerate cities on the map that represent a high volume of sales.
