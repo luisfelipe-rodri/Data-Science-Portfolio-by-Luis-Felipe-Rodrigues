@@ -11,7 +11,7 @@
 
    * ## Supervised Learning
 
-      * Predict energy comsumption: comparing five types of regressive models to predict the energy consumption from brazilian southeast. [![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow)](https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Supervised%20Learning/Predict%20energy%20consumption.ipynb)
+      * Predict energy comsumption: comparing five types of regressive models to predict the energy consumption from brazilian southeast region. [![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow)](https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Supervised%20Learning/Predict%20energy%20consumption.ipynb)
 
    * ## Unsupervised Learning
  
