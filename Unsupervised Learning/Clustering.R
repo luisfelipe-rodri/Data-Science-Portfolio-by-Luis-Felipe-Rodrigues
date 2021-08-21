@@ -19,7 +19,7 @@ library(readxl)
 ########################################
 
 #Carregar base de dados: 
-mcdonalds <- read.table("dados/MCDONALDS.csv", sep = ";", dec = ",", header = T)
+mcdonalds <- read.table("MCDONALDS.csv", sep = ";", dec = ",", header = T)
 #transformar o nome dos lanches em linhas
 rownames(mcdonalds) <- mcdonalds[,1]
 mcdonalds <- mcdonalds[,-1]
@@ -102,3 +102,4 @@ grid.arrange(G1, G2, G3, G4, nrow = 2)
 
 #VERIFICANDO ELBOW 
 fviz_nbclust(mcdonalds.padronizado, kmeans, method = "wss")
+
