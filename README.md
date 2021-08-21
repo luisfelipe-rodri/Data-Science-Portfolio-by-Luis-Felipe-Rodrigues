@@ -3,7 +3,7 @@
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://l-f-rodrigues.medium.com/)
  
 <!--ts-->
-   * Econometrics, Finantials, and Statistics
+   * ## Econometrics, Finantials, and Statistics
      * Forecasting the volatility of Ibovespa's time series using GARCH-ARIMA
      [![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow)](https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Econometrics%2C%20Finantials%20%26%20Statistics/Finaltial%20Markets/Forecasting%20the%20volatility%20of%20Ibovespa's%20time%20series%20using%20GARCH-ARIMA.ipynb)
      
