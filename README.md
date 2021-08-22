@@ -19,6 +19,8 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow)](https://github.com/luisfelipe-rodri/Data-Science-Portifolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/E-commerce%20Brazil/E-commerce%20Sales%20Hotspots%20and%20Outliers%20Detection.ipynb)
 
       * Hierarchical and Non-hierarchical Clustering: comparing two methods of clustering and identify the optimal K cluster using elbow verification. [![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)](https://htmlpreview.github.io/?https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/clustering/Clustering.html)
+      
+      * Ranking Pizzas: PCA application to computing the principal components by the nutritional values of the pizzas and use them to create a rank. [![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)](https://htmlpreview.github.io/?https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/PCA/PCA_Pizza.html)
 
    * ## Neural Networks
 
