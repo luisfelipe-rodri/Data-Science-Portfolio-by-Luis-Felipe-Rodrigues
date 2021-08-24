@@ -22,7 +22,7 @@
       
       * Ranking Pizzas: PCA application to computing the principal components by the nutritional values of the pizzas and use them to create a rank. [![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)](https://htmlpreview.github.io/?https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/PCA/PCA_Pizza.html)
       
-      * * Find associations between car manufacturers and their body style: using the ANACOR algorithm to identify their dimensions and then separate them into groups. [![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)](https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/ANACOR/cars.html)
+      * Find associations between car manufacturers and their body style: using the ANACOR algorithm to identify their dimensions and then separate them into groups. [![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)](https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/ANACOR/cars.html)
 
    * ## Neural Networks
 
