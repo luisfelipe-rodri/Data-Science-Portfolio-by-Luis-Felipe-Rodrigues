@@ -13,7 +13,7 @@
 
       * Predict energy comsumption: comparing five types of regressive models to predict the energy consumption from brazilian southeast region. [![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow)](https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Supervised%20Learning/Predict%20energy%20consumption.ipynb)
       
-      * Estimate house rental expenses: using linear regression to estimate the parameters and then applying the Box-Cox transformation. Finally, comparing models with the XGBoost regressor. [![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow)](https://htmlpreview.github.io/?https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Supervised%20Learning/rents/houses.html)
+      * Estimate house rental expenses: using linear regression to estimate the parameters and then applying the Box-Cox transformation. Finally, comparing models with the XGBoost regressor. [![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)](https://htmlpreview.github.io/?https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Supervised%20Learning/rents/houses.html)
 
    * ## Unsupervised Learning
  
