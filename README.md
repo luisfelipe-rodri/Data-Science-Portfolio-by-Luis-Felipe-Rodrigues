@@ -32,6 +32,6 @@
 
    * ## Dashboards & Deploys
 
-     * [Mato Grosso Crime Map](https://luisfeliperodrigues.shinyapps.io/crime/)
+     * [Mato Grosso Crime Map](https://luisfeliperodrigues.shinyapps.io/crime/): spatial autocorrelation statistics for homicides, thefts and robberies for 2018-2021. [![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)](https://htmlpreview.github.io/?https://github.com/luisfelipe-rodri/Data-Science-Portfolio-by-Luis-Felipe-Rodrigues/blob/main/Unsupervised%20Learning/ANACOR/cars.html)
 
 <!--te-->
