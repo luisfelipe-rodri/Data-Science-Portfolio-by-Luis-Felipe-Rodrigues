@@ -32,6 +32,6 @@
 
    * ## Dashboards & Deploys
 
-     * Mato Grosso's Criminal Map.(https://luisfeliperodrigues.shinyapps.io/crime/)
+     * [Mato Grosso's Criminal Map](https://luisfeliperodrigues.shinyapps.io/crime/)
 
 <!--te-->
