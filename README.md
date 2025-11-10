@@ -3,16 +3,13 @@
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://l-f-rodrigues.medium.com/)
  
 <!--ts-->
-   * ## Econometrics, Finantials, and Statistics
-
-   * ## Supervised Learning
-
-   * ## Unsupervised Learning
-
-   * ## Neural Networks
+   * ## R Libraries
+      *   [birddog](https://www.roneyfraga.com/birddog/authors.html): The goal of birddog is sniffing out emergence and trajectories in scientific and patent literature. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
+      *   [getLattes](https://cran.r-project.org/web/packages/getLattes/index.html): Import and Process Data from the 'Lattes' Curriculum Platform. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
 
    * ## Dashboards & Deploys
 
      * [Mato Grosso Crime Map](https://luisfeliperodrigues.shinyapps.io/crime/): spatial autocorrelation statistics for homicides, thefts and robberies for 2018-2021. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
+     * [getLattes WebApp](https://roneyfraga.com/getLattesWeb/): Non-programmers alternative, use the getLattesWeb graphical interface. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
 
 <!--te-->
