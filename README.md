@@ -11,5 +11,8 @@
 
      * [Mato Grosso Crime Map](https://luisfeliperodrigues.shinyapps.io/crime/): spatial autocorrelation statistics for homicides, thefts and robberies for 2018-2021. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
      * [getLattes WebApp](https://roneyfraga.com/getLattesWeb/): Non-programmers alternative, use the getLattesWeb graphical interface. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
+    
+   * ## Scientific Research
+     * [Income Inequality and Renewable Energy Transition in Latin America: A Dynamic Panel Analysis.](https://www.anpec.org.br/encontro/2025/submissao/files_I/i12-e028a49dafb4b031b7168a2d1c545697.pdf)
 
 <!--te-->
